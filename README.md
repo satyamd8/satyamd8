@@ -21,7 +21,7 @@ I'm a Junior Developer and Computer Science student with experience in both fron
 
 ## Socials
 Feel free to reach out
-- [![LinkedIn]](https://www.linkedin.com/in/satyam-dhar-3b3324252/)
+- [LinkedIn](https://www.linkedin.com/in/satyam-dhar-3b3324252/)
 
 <!---
 satyamd8/satyamd8 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

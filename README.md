@@ -6,16 +6,16 @@ I'm a Junior Developer and Computer Science student with experience in both fron
 - **Web Dev**: HTML, CSS, JavaScript, React.js
 
 ## Projects/Repositories (click for more info)
-### [Discord Bot] (https://github.com/satyamd8/discord-bot)
+### [Discord Bot](https://github.com/satyamd8/discord-bot)
 - A simple Discord Bot template coded in
 - Python
-### [Portfolio Website] (https://github.com/satyamd8/satyamd8.github.io)
+### [Portfolio Website](https://github.com/satyamd8/satyamd8.github.io)
 - Portfolio website meant to showcase my projects and socials
 - HTML, CSS, JavaScript
-### [Random Quote Generator] (https://github.com/satyamd8/random-quotes)
+### [Random Quote Generator](https://github.com/satyamd8/random-quotes)
 - Random quote generator using API
 - Python
-### [QR Code Generator] (https://github.com/satyamd8/qrcode-generator)
+### [QR Code Generator](https://github.com/satyamd8/qrcode-generator)
 - QR Code generator given from user input
 - Python
 

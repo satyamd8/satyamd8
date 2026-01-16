@@ -1,14 +1,22 @@
 # hi, im satyam
-I'm a Junior Developer and Computer Science student with experience in both front-end and back-end development. I'm interested in building websites, web apps, and other types of applications.
+I'm a Junior Fullstack Developer and Computer Science student with experience in both front-end and back-end development. I'm interested in building websites, web apps, and other types of applications and software.
 
 ## Skills
-- **Programming Languages**: C++, Python, Java, JavaScript
-- **Web Dev**: HTML, CSS, JavaScript, React.js
+- **Programming Languages**: Python, C++, JavaScript, TypeScript, Java
+- **Frontend**: React, HTML, CSS, JavaScript
+- **Backend**: Node.js, Express.js, REST APIs
+- **Database**: PostgreSQL, SQL, Relational Database Design
 
 ## Projects/Repositories (click for more info)
 ### [Discord Bot](https://github.com/satyamd8/discord-bot)
-- A simple Discord Bot template coded in
+- A simple Discord Bot template using the discord.py API
 - Python
+### [da.ily](https://github.com/satyamd8/da.ily)
+- A productivity website that provides tools to help study with
+- HTML, CSS, JavaScript, Web Dev
+### [da.ily (react)](https://github.com/satyamd8/da.ily-react)
+- My da.ily website recreated in React with TypeScript
+- React, TypeScript
 ### [Portfolio Website](https://github.com/satyamd8/satyamd8.github.io)
 - Portfolio website meant to showcase my projects and socials
 - HTML, CSS, JavaScript

@@ -1,5 +1,5 @@
 # hi, im satyam
-I'm a Junior Fullstack Developer and Computer Science student with experience in both front-end and back-end development. I'm interested in building websites, web apps, and other types of applications and software.
+I'm a Junior Fullstack Developer and Computer Science student with experience in both front-end & back-end development and databases. I'm interested in building websites, web apps, and other types of applications and software.
 
 ## Skills
 - **Programming Languages**: Python, C++, JavaScript, TypeScript, Java

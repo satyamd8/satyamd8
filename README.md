@@ -9,7 +9,7 @@ I'm a Junior Fullstack Developer and Computer Science student with experience in
 
 ## Projects/Repositories (click for more info)
 ### [Discord Bot](https://github.com/satyamd8/discord-bot)
-- A simple Discord Bot template using the discord.py API
+- A Discord Bot I made using the discord.py API
 - Python
 ### [da.ily](https://github.com/satyamd8/da.ily)
 - A productivity website that provides tools to help study with

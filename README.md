@@ -12,8 +12,8 @@ I'm a Junior Fullstack Developer and Computer Science student with experience in
 - A Discord Bot I made using the discord.py API
 - Python
 ### [da.ily](https://github.com/satyamd8/da.ily)
-- A productivity website that provides tools to help study with
-- HTML, CSS, JavaScript, Web Dev
+- A productivity web app that provides tools to help study with
+- HTML, CSS, JavaScript, Node.js, Express.js, PostgreSQL
 ### [da.ily (react)](https://github.com/satyamd8/da.ily-react)
 - My da.ily website recreated in React with TypeScript
 - React, TypeScript
